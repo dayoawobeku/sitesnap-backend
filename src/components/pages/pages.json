@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_pages_pages",
+  "info": {
+    "displayName": "pages",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "landing page",
+        "about page",
+        "contact page"
+      ]
+    }
+  }
+}
