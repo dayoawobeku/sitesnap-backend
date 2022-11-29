@@ -1,5 +1,5 @@
 {
-  "name": "omoui-backend",
+  "name": "sitesnap-backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -13,6 +13,7 @@
     "@strapi/plugin-i18n": "4.4.3",
     "@strapi/plugin-users-permissions": "4.4.3",
     "@strapi/strapi": "4.4.3",
+    "@vscode/sqlite3": "^5.1.2-vscode",
     "better-sqlite3": "7.4.6",
     "slugify": "^1.6.5"
   },
