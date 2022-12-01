@@ -6,9 +6,6 @@
   },
   "options": {},
   "attributes": {
-    "url": {
-      "type": "string"
-    },
     "type": {
       "type": "enumeration",
       "enum": [
