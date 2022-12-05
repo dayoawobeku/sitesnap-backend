@@ -30,7 +30,15 @@
       "enum": [
         "Fintech",
         "Healthtech",
-        "Onboarding"
+        "Onboarding",
+        "Edutech",
+        "Data Tech",
+        "Artificial intelligence",
+        "eCommerce",
+        "Social media",
+        "Portfolio",
+        "NGO",
+        "Blog"
       ],
       "required": true
     },
