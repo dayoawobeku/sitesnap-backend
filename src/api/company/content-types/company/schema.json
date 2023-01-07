@@ -38,7 +38,13 @@
         "Social media",
         "Portfolio",
         "NGO",
-        "Blog"
+        "Blog",
+        "Automotive",
+        "Manufacturing",
+        "Property",
+        "Web3",
+        "Virtual Reality",
+        "Augmented Reality"
       ],
       "required": true
     },
