@@ -44,7 +44,9 @@
         "Property",
         "Web3",
         "Virtual Reality",
-        "Augmented Reality"
+        "Augmented Reality",
+        "Transportation",
+        "Agency"
       ],
       "required": true
     },
