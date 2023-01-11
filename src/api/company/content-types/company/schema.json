@@ -46,7 +46,9 @@
         "Virtual Reality",
         "Augmented Reality",
         "Transportation",
-        "Agency"
+        "Agency",
+        "Agriculture",
+        "Energy"
       ],
       "required": true
     },
