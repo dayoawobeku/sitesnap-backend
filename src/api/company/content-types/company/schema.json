@@ -48,7 +48,8 @@
         "Transportation",
         "Agency",
         "Agriculture",
-        "Energy"
+        "Energy",
+        "Hospitality & Travel"
       ],
       "required": true
     },
