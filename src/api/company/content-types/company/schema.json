@@ -49,7 +49,9 @@
         "Agency",
         "Agriculture",
         "Energy",
-        "Hospitality and Travel"
+        "Hospitality and Travel",
+        "Music",
+        "Cryptocurrency"
       ],
       "required": true
     },
